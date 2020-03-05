@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dfs-vs-bfs/static/css/main.a7d2c533.chunk.css",
+    "main.js": "/dfs-vs-bfs/static/js/main.5d25942a.chunk.js",
+    "main.js.map": "/dfs-vs-bfs/static/js/main.5d25942a.chunk.js.map",
+    "runtime-main.js": "/dfs-vs-bfs/static/js/runtime-main.277b832c.js",
+    "runtime-main.js.map": "/dfs-vs-bfs/static/js/runtime-main.277b832c.js.map",
+    "static/js/2.bc700c5f.chunk.js": "/dfs-vs-bfs/static/js/2.bc700c5f.chunk.js",
+    "static/js/2.bc700c5f.chunk.js.map": "/dfs-vs-bfs/static/js/2.bc700c5f.chunk.js.map",
+    "index.html": "/dfs-vs-bfs/index.html",
+    "precache-manifest.21d33208556a7c16dac550eac969bb0c.js": "/dfs-vs-bfs/precache-manifest.21d33208556a7c16dac550eac969bb0c.js",
+    "service-worker.js": "/dfs-vs-bfs/service-worker.js",
+    "static/css/main.a7d2c533.chunk.css.map": "/dfs-vs-bfs/static/css/main.a7d2c533.chunk.css.map",
+    "static/js/2.bc700c5f.chunk.js.LICENSE.txt": "/dfs-vs-bfs/static/js/2.bc700c5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.277b832c.js",
+    "static/js/2.bc700c5f.chunk.js",
+    "static/css/main.a7d2c533.chunk.css",
+    "static/js/main.5d25942a.chunk.js"
+  ]
+}
