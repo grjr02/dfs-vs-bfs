@@ -1,0 +1,117 @@
+.backG{
+    background: #E6F0F2;
+    text-align: center;
+}
+
+.dfs{
+    background: white;
+    opacity: .9;
+    display: inline-block;
+    margin: 25px;
+    box-shadow: 5px 5px 10px lightblue, 10px 10px 10px pink, 15px 15px 10px lightblue;
+}
+.bfs{
+    background: white;
+    opacity: .9;
+    display: inline-block;
+    margin: 25px;
+    box-shadow: 5px 5px 10px lightblue, 10px 10px 10px pink, 15px 15px 10px lightblue;
+
+}
+.colD{
+    display: inline-block;
+    border: 1px solid gray;
+    height: 25px;
+    width: 25px;
+
+}
+.colB{
+    display: inline-block;
+    border: 1px solid gray;
+    height: 25px;
+    width: 25px;
+}
+.header_button{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+h2{
+    display: inline-block;
+    padding-top: 1%;
+    color: #7296A4;
+    left: 48%;
+    /* margin-left: 50%; */
+}
+
+button{
+    display:inline-block;
+    padding:0.5em 3em;
+    border:0.16em solid #626C6D;
+    margin:0 0.3em 0.3em 0;
+    box-sizing: border-box;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-family:'Roboto',sans-serif;
+    font-weight:400;
+    color:#626C6D;
+    text-align:center;
+    transition: all 0.15s;
+    outline: none;
+    background: white;
+    /* justify-content: center;
+    margin-left: 50%;
+    transform: translateX(-155%); */
+}
+button:hover{
+    color:#ffffff;
+    border-color:#DDDDDD;
+    background: #CDDFE5;
+
+
+}
+button:active{
+    color:#BBBBBB;
+    border-color:#BBBBBB;
+}
+@media all and (max-width:30em){
+    button{
+        display:block;
+        margin:0.4em auto;
+    }
+}
+.changebutton{
+    padding:0.5em 3em;
+    border:0.16em solid #626C6D;
+    margin:0 0.3em 0.3em 0;
+    box-sizing: border-box;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-family:'Roboto',sans-serif;
+    font-weight:400;
+    color:#626C6D;
+    text-align:center;
+    transition: all 0.15s;
+    outline: none;
+    /* justify-content: center; */
+    /* margin-left: 50%; */
+    /* transform: translateX(-124%); */
+}
+.newGrid{
+    position: absolute;
+    justify-content: flex-start;
+    right:0;
+    margin-top: 0%;
+    padding:0.8em 3em;
+    width: 10%;
+    border: none;
+    border-left: 2px solid #7296A4;
+    border-bottom: 2px solid #7296A4;
+    border-right: 2px solid #7296A4;
+
+    /* border-left: none; */
+
+    
+}
